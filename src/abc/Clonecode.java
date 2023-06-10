@@ -5,6 +5,7 @@ public class Clonecode {
 		System.out.println("hello");
 		int x = 1;
 		System.out.println(x);
+		System.out.println("Thank you");
 	}
 
 }
